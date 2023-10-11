@@ -1,0 +1,70 @@
+body{
+    background-color: gainsboro;
+    margin:0px;
+}
+.header{
+    background-color: white;
+    text-align: center;
+    margin:0px;
+    padding:15px;
+}
+
+.logo{
+    margin:0px;
+}
+
+.photobox{
+    background-color: white;
+    box-sizing: content-box;
+    width: 500px;
+    /* height: 500px; */
+    /* padding: 40px; */
+    /* padding-left: 20px; */
+    padding-top:0px;
+    margin: 20px;
+}
+
+.phototop{
+    display: flex;
+    /* height:40px; */
+}
+
+.photofooter{
+    padding-left: 10px;
+}
+
+.title{
+    /* background-color: pink; */
+    width: 50%;
+}
+
+.date{
+    /* background-color: green; */
+    width: 50%;
+    text-align: right;
+}
+
+.titleh4{
+    margin: 10px;
+}
+
+.dateh4{
+    margin: 10px;
+    color: grey;
+}
+
+.photo {
+    width:500px;
+    /* height:380px; */
+}
+
+.center{
+    background-color: gainsboro;
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+}
+
+p {
+    font-size: 14px;
+}
